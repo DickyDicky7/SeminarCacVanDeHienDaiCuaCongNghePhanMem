@@ -7,3 +7,6 @@
 [submodule "lift-coordinate"]
 	path = lift-coordinate
 	url = https://github.com/bcluc/lift-coordinate
+[submodule "SeminarCNPM_FE_SenderReceiver"]
+	path = SeminarCNPM_FE_SenderReceiver
+	url = https://github.com/ZeVnan/SeminarCNPM_FE_SenderReceiver
