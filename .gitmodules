@@ -1,3 +1,6 @@
 [submodule "SeminarCacVanDeHienDaiCuaCongNghePhanMem-Backend"]
 	path = SeminarCacVanDeHienDaiCuaCongNghePhanMem-Backend
 	url = https://github.com/DickyDicky7/SeminarCacVanDeHienDaiCuaCongNghePhanMem-Backend
+[submodule "SeminarCacVanDeHienDaiCuaCongNghePhanMem-Frontend-Shipper"]
+	path = SeminarCacVanDeHienDaiCuaCongNghePhanMem-Frontend-Shipper
+	url = https://github.com/DickyDicky7/SeminarCacVanDeHienDaiCuaCongNghePhanMem-Frontend-Shipper
