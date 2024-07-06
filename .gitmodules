@@ -4,3 +4,6 @@
 [submodule "SeminarCacVanDeHienDaiCuaCongNghePhanMem-Frontend-Shipper"]
 	path = SeminarCacVanDeHienDaiCuaCongNghePhanMem-Frontend-Shipper
 	url = https://github.com/DickyDicky7/SeminarCacVanDeHienDaiCuaCongNghePhanMem-Frontend-Shipper
+[submodule "lift-coordinate"]
+	path = lift-coordinate
+	url = https://github.com/bcluc/lift-coordinate
